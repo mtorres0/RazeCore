@@ -25,7 +25,7 @@ public class RazeCore {
     }
     
     /// The most eye-preasing color know to all humanity
-    static var razeColor: UIColor {
+    public static var razeColor: UIColor {
         return self.colorFromHexString("006736")
     }
 }
